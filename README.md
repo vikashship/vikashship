@@ -14,6 +14,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=vikashship&style=flat-square&color=f0a940&label=Profile+Views&labelColor=0d1117"/>
 <img src="https://img.shields.io/github/followers/vikashship"/>
+<!-- <img src="https://img.shields.io/github/followers/vikashship?style=flat-square&color=f0a940&labelColor=0d1117&label=Followers"/> -->
 
 </div>
 
