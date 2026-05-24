@@ -6,14 +6,14 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-vikashkrdeveloper.vercel.app-f0a940?style=flat-square&logo=vercel&logoColor=black&labelColor=0d1117)](https://vikashkrdeveloper.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vikashkrdeveloper-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/vikashkrdeveloper)
+[![Portfolio](https://img.shields.io/badge/Portfolio-vikashship.vercel.app-f0a940?style=flat-square&logo=vercel&logoColor=black&labelColor=0d1117)](https://vikashship.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vikashship-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/vikashship)
 [![Play Store](https://img.shields.io/badge/Play%20Store-Sewacity%20App-3DDC84?style=flat-square&logo=googleplay&logoColor=white&labelColor=0d1117)](https://play.google.com/store/apps/details?id=com.sewacity.sewacity)
 [![LeetCode](https://img.shields.io/badge/LeetCode-600%2B%20Solved-FFA116?style=flat-square&logo=leetcode&logoColor=FFA116&labelColor=0d1117)](https://leetcode.com/u/vikashkrdeveloper)
 [![Email](https://img.shields.io/badge/Hire%20Me-vikash.sde.cseiot%40gmail.com-f0a940?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:vikash.sde.cseiot@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=vikashkrdeveloper&style=flat-square&color=f0a940&label=Profile+Views&labelColor=0d1117"/>
-<img src="https://img.shields.io/github/followers/vikashkrdeveloper?style=flat-square&color=f0a940&labelColor=0d1117&label=Followers"/>
+<img src="https://komarev.com/ghpvc/?username=vikashship&style=flat-square&color=f0a940&label=Profile+Views&labelColor=0d1117"/>
+<img src="https://img.shields.io/github/followers/vikashship?style=flat-square&color=f0a940&labelColor=0d1117&label=Followers"/>
 
 </div>
 
@@ -23,7 +23,7 @@
 
 ```typescript
 const vikash: Engineer = {
-  name        : "Vikash Kumar",
+  name        : "Vikash Sharma",
   role        : "AI-Native Full Stack Engineer - SDE-1 Aspirant",
   education   : "B.Tech CSE-IoT @GEC Siwan, Bihar | Oct 2022 – May 2026 | CGPA: 7.27",
   available   : true,
@@ -263,7 +263,7 @@ const tools = [
 **Sewacity Mobile App - iOS + Android**
 
 [![Play Store](https://img.shields.io/badge/Play%20Store-Live%20Production-3DDC84?style=flat-square&logo=googleplay&labelColor=0d1117)](https://play.google.com/store/apps/details?id=com.sewacity.sewacity)
-[![TestFlight](https://img.shields.io/badge/iOS-TestFlight%20Beta-0D96F6?style=flat-square&logo=apple&labelColor=0d1117)](https://github.com/vikashkrdeveloper)
+[![TestFlight](https://img.shields.io/badge/iOS-TestFlight%20Beta-0D96F6?style=flat-square&logo=apple&labelColor=0d1117)](https://github.com/vikashship)
 
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=0d1117)
 ![Expo EAS](https://img.shields.io/badge/Expo%20EAS-000020?style=flat-square&logo=expo&logoColor=white&labelColor=0d1117)
@@ -278,7 +278,7 @@ Production React Native app - **10K+ users, 2K+ monthly orders**. Redux state, F
 
 **SafeExec - Enterprise RCE Platform**
 
-[![GitHub](https://img.shields.io/badge/GitHub-SafeExec-f0a940?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/vikashkrdeveloper/SafeExec)
+[![GitHub](https://img.shields.io/badge/GitHub-SafeExec-f0a940?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/vikashship/SafeExec)
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0d1117)
 ![JWT](https://img.shields.io/badge/JWT%20Auth-black?style=flat-square&logo=jsonwebtokens&labelColor=0d1117)
@@ -294,7 +294,7 @@ Secure open-source Remote Code Execution platform. Every execution runs in an **
 
 **Contest & Event Management Platform**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-f0a940?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/vikashkrdeveloper)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-f0a940?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/vikashship)
 
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs&labelColor=0d1117)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=0d1117)
@@ -309,7 +309,7 @@ Built for TechKshitiz, GEC Siwan - ran a **live contest for 300+ students simult
 
 **Academic & Library Management System (AI + IoT)**
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-f0a940?style=flat-square&logo=vercel&logoColor=black&labelColor=0d1117)](https://github.com/vikashkrdeveloper)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-f0a940?style=flat-square&logo=vercel&logoColor=black&labelColor=0d1117)](https://github.com/vikashship)
 
 ![MCP AI](https://img.shields.io/badge/MCP%20AI-CC785C?style=flat-square&logo=anthropic&logoColor=white&labelColor=0d1117)
 ![RFID IoT](https://img.shields.io/badge/RFID%20IoT-22c55e?style=flat-square&labelColor=0d1117)
@@ -325,7 +325,7 @@ Campus management with **RFID automation**, MCP-based LLM recommendation engine,
 
 **MongoDB GridFS Bucket System**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-f0a940?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/vikashkrdeveloper)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-f0a940?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/vikashship)
 
 ![GridFS](https://img.shields.io/badge/GridFS-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=0d1117)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=0d1117)
@@ -338,8 +338,8 @@ Open-source file storage API on MongoDB GridFS. Store, stream, and manage large 
 
 **Portfolio v3 - Production SPA**
 
-[![Live](https://img.shields.io/badge/Live-vikashkrdeveloper.vercel.app-f0a940?style=flat-square&logo=vercel&logoColor=black&labelColor=0d1117)](https://vikashkrdeveloper.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-vikashkumar-f0a940?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/vikashkrdeveloper/vikashkumar)
+[![Live](https://img.shields.io/badge/Live-vikashship.vercel.app-f0a940?style=flat-square&logo=vercel&logoColor=black&labelColor=0d1117)](https://vikashship.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-vikashkumar-f0a940?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/vikashship/vikashkumar)
 
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white&labelColor=0d1117)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=0d1117)
@@ -381,23 +381,23 @@ Open-source file storage API on MongoDB GridFS. Store, stream, and manage large 
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=vikashkrdeveloper&show_icons=true&theme=github_dark&hide_border=true&title_color=f0a940&icon_color=f0a940&text_color=cccccc&bg_color=0d1117&count_private=true&include_all_commits=true&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api?username=vikashship&show_icons=true&theme=github_dark&hide_border=true&title_color=f0a940&icon_color=f0a940&text_color=cccccc&bg_color=0d1117&count_private=true&include_all_commits=true&rank_icon=github" />
 </td>
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashkrdeveloper&layout=compact&theme=github_dark&hide_border=true&title_color=f0a940&text_color=cccccc&bg_color=0d1117&langs_count=8&hide=html,css" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashship&layout=compact&theme=github_dark&hide_border=true&title_color=f0a940&text_color=cccccc&bg_color=0d1117&langs_count=8&hide=html,css" />
 </td>
 </tr>
 </table>
 
-<img src="https://streak-stats.demolab.com?user=vikashkrdeveloper&theme=github-dark-blue&hide_border=true&ring=f0a940&fire=f0a940&currStreakLabel=f0a940&sideLabels=cccccc&dates=888888" width="65%"/>
+<img src="https://streak-stats.demolab.com?user=vikashship&theme=github-dark-blue&hide_border=true&ring=f0a940&fire=f0a940&currStreakLabel=f0a940&sideLabels=cccccc&dates=888888" width="65%"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vikashkrdeveloper&bg_color=0d1117&color=f0a940&line=f0a940&point=ffffff&area=true&area_color=f0a94018&hide_border=true&custom_title=Contribution%20Activity%20%E2%80%94%202%2C132%20contributions%20in%20the%20last%20year" width="97%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vikashship&bg_color=0d1117&color=f0a940&line=f0a940&point=ffffff&area=true&area_color=f0a94018&hide_border=true&custom_title=Contribution%20Activity%20%E2%80%94%202%2C132%20contributions%20in%20the%20last%20year" width="97%"/>
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=vikashkrdeveloper&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6" width="97%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=vikashship&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6" width="97%"/>
 
 </div>
 
@@ -520,8 +520,8 @@ Open to **SDE-1, Full Stack, React Native, and Backend roles** at startups and p
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-vikashkrdeveloper.vercel.app-f0a940?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0d1117)](https://vikashkrdeveloper.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vikashkrdeveloper-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/vikashkrdeveloper)
+[![Portfolio](https://img.shields.io/badge/Portfolio-vikashship.vercel.app-f0a940?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0d1117)](https://vikashship.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vikashship-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/vikashship)
 [![Play Store](https://img.shields.io/badge/Sewacity%20App-Play%20Store-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=0d1117)](https://play.google.com/store/apps/details?id=com.sewacity.sewacity)
 [![Email](https://img.shields.io/badge/Email-vikash.sde.cseiot%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:vikash.sde.cseiot@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-vikashkrdeveloper-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0d1117)](https://leetcode.com/u/vikashkrdeveloper)
@@ -531,6 +531,6 @@ Open to **SDE-1, Full Stack, React Native, and Backend roles** at startups and p
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=f0a940,1a1a2e,0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
 
-<sub><strong>Vikash Kumar</strong> &nbsp;-&nbsp; Built with intent. Every commit ships toward production.</sub>
+<sub><strong>Vikash Sharma</strong> &nbsp;-&nbsp; Built with intent. Every commit ships toward production.</sub>
 
 </div>
