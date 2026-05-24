@@ -26,7 +26,7 @@
 const vikash: Engineer = {
   name        : "Vikash Sharma",
   role        : "AI-Native Full Stack Engineer - SDE-1 Aspirant",
-  education   : "B.Tech CSE-IoT @GEC Siwan, Bihar | Oct 2022 – May 2026 | CGPA: 7.27",
+  education   : "B.Tech CSE-IoT @GEC Siwan, Bihar | Oct 2022 – May 2026 | CGPA: 7.44",
   available   : true,
   phone       : "",
   targeting   : ["SDE-1", "Full Stack", "React Native", "Backend", "AI-Integration"],
