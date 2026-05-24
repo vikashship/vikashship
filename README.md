@@ -28,7 +28,7 @@ const vikash: Engineer = {
   role        : "AI-Native Full Stack Engineer - SDE-1 Aspirant",
   education   : "B.Tech CSE-IoT @GEC Siwan, Bihar | Oct 2022 – May 2026 | CGPA: 7.27",
   available   : true,
-  phone       : "+91 736-288-5182",
+  phone       : "",
   targeting   : ["SDE-1", "Full Stack", "React Native", "Backend", "AI-Integration"],
 
   production : {
