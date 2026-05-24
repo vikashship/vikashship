@@ -13,7 +13,7 @@
 [![Email](https://img.shields.io/badge/Hire%20Me-vikash.sde.cseiot%40gmail.com-f0a940?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:vikash.sde.cseiot@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=vikashship&style=flat-square&color=f0a940&label=Profile+Views&labelColor=0d1117"/>
-<img src="https://img.shields.io/github/followers/vikashship?style=flat-square&color=f0a940&labelColor=0d1117&label=Followers"/>
+<img src="https://img.shields.io/github/followers/vikashship"/>
 
 </div>
 
